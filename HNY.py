@@ -42,3 +42,4 @@ def new_year_greeting():
 
 # Вызов функции
 new_year_greeting()
+input("Нажмите Enter, чтобы закрыть программу...")
