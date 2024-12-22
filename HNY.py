@@ -29,7 +29,6 @@ def new_year_greeting():
         *******
        *********
           |||
-          |||
         """]
      # Выбор случайной поздравительной фразы и ASCII-арта
     greeting = random.choice(phrases).format(name=name)
